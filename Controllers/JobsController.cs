@@ -96,8 +96,8 @@ public class JobsController : Controller
     [AllowAnonymous]
     public async Task<IActionResult> Jobs()
     {
-        int page = 1; // Set the page number
-        int pageSize = 10; // Set the number of jobs to display per page
+        int page = 1; 
+        int pageSize = 10; 
         var jobs = await _jobRepository.GetActiveJobsAsync(page, pageSize);
         return View(jobs);
     }
