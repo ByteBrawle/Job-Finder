@@ -417,10 +417,10 @@ C:/Users/Administrator/JobFinderNet/obj/Debug/net9.0/JobFinderNet.pdb
 C:/Users/Administrator/JobFinderNet/obj/Debug/net9.0/JobFinderNet.genruntimeconfig.cache
 C:/Users/Administrator/JobFinderNet/obj/Debug/net9.0/ref/JobFinderNet.dll
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/bin/Debug/net9.0/appsettings.Development.json
-/Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/bin/Debug/net9.0/app.db
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/bin/Debug/net9.0/appsettings.json
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/bin/Debug/net9.0/JobFinderNet.staticwebassets.runtime.json
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/bin/Debug/net9.0/JobFinderNet.staticwebassets.endpoints.json
+/Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/bin/Debug/net9.0/app.db
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/bin/Debug/net9.0/JobFinderNet
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/bin/Debug/net9.0/JobFinderNet.deps.json
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/bin/Debug/net9.0/JobFinderNet.runtimeconfig.json
@@ -818,8 +818,8 @@ C:/Users/Administrator/JobFinderNet/obj/Debug/net9.0/ref/JobFinderNet.dll
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/obj/Debug/net9.0/compressed/zddt9flhp0-muycvpuwrr.gz
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/obj/Debug/net9.0/compressed/3zoe7kudkp-87fc7y1x7t.gz
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/obj/Debug/net9.0/compressed/uaxmfqtroq-jfsiqqwiad.gz
-/Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/obj/Debug/net9.0/compressed/r6uqhlqovx-3yaf8345f2.gz
-/Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/obj/Debug/net9.0/compressed/q7fcxrs9gl-3yaf8345f2.gz
+/Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/obj/Debug/net9.0/compressed/r6uqhlqovx-nuw71ojquv.gz
+/Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/obj/Debug/net9.0/compressed/q7fcxrs9gl-nuw71ojquv.gz
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/obj/Debug/net9.0/staticwebassets.build.json
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/obj/Debug/net9.0/staticwebassets.development.json
 /Users/muhamedidrizi/Desktop/Dot Net Project/JobFinderNet/obj/Debug/net9.0/staticwebassets.build.endpoints.json
